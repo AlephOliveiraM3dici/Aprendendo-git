@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 Quero me tornar um pro em python
-=======
-Sou lindo
-Aleph
-hellow
->>>>>>> 83e239d38551f629f14694127b5aaf808b50ffa8
+
+
