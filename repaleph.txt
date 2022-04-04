@@ -1,4 +1,3 @@
-
 Quero me tornar um pro em python
 
 
